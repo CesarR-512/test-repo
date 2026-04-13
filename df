@@ -1,0 +1,27 @@
+[33mcommit cb47b77a3df8a45e3b30f65005654900c9e8bbbf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 1a6d5e3 d8deaef
+Author: Cesar Rondon <cerondonr@gmail.com>
+Date:   Sun Apr 12 12:29:43 2026 -0500
+
+    Merge branch 'rama2'
+    
+    # Conflicts:
+    #       index.html
+
+[33mcommit d8deaef750d705bf8dd82d139042e6cd3d5b577d[m[33m ([m[1;32mrama2[m[33m)[m
+Author: Cesar Rondon <cerondonr@gmail.com>
+Date:   Sun Apr 12 12:23:19 2026 -0500
+
+    Se agraga H4
+
+[33mcommit 1a6d5e3bfa20e8585bced9fe003a99bf2b1de7b6[m
+Author: Cesar Rondon <cerondonr@gmail.com>
+Date:   Sun Apr 12 12:09:48 2026 -0500
+
+    Se agregó un H1
+
+[33mcommit f302889715659956a3aba3a50ce74a6f18d10ffc[m
+Author: Cesar Rondon <cerondonr@gmail.com>
+Date:   Sun Apr 12 12:05:29 2026 -0500
+
+    Se modificó el hola mundo inicial
